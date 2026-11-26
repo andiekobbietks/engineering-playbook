@@ -106,6 +106,8 @@ Individual projects retain their own architecture, threat models, licences, road
 - [Security and governance](docs/SECURITY_AND_GOVERNANCE.md)
 - [Architecture Decision Records](docs/ARCHITECTURE_DECISIONS.md)
 - [Case studies](docs/CASE_STUDIES.md)
+- [External repository catalogue](docs/EXTERNAL_REPOSITORIES.md)
+- [Evidence and knowledge research method](docs/KNOWLEDGE_RESEARCH_METHOD.md)
 - [References](docs/REFERENCES.md)
 
 ## Maturity and honest reporting
