@@ -15,7 +15,7 @@ Automate repeatable checks and make evidence visible before merge.
 Choose tools based on language, architecture, exposure and impact. Record exclusions and reasons.
 
 ## This repository
-The included workflow runs Markdown linting on PRs and pushes to `main`. This is a documentation baseline, not a security certification or comprehensive software CI pipeline.
+The included workflow runs a dependency-free documentation integrity check on PRs and pushes to `main`. It verifies that Markdown files are non-empty, end with a newline, contain no trailing whitespace and resolve relative local links. This is a documentation baseline, not a security certification or comprehensive software CI pipeline.
 
 ## Required status checks
 After the first workflow run, inspect the exact check name GitHub reports and select that check in branch protection. Do not guess the status context or make a nonexistent check mandatory.
